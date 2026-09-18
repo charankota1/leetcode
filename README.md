@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/charankota1/leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/charankota1/leetcode/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/charankota1/leetcode/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/charankota1/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/charankota1/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
