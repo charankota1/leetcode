@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/charankota1/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/charankota1/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0451-sort-characters-by-frequency](https://github.com/charankota1/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/charankota1/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/charankota1/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/charankota1/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/charankota1/leetcode/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/charankota1/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/charankota1/leetcode/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/charankota1/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/charankota1/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/charankota1/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
