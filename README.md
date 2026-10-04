@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/charankota1/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/charankota1/leetcode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/charankota1/leetcode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/charankota1/leetcode/tree/master/0051-n-queens) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/charankota1/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
