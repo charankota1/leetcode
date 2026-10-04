@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/charankota1/leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/charankota1/leetcode/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/charankota1/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Enumeration
 |  |
 | ------- |
@@ -45,18 +46,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/charankota1/leetcode/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/charankota1/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/charankota1/leetcode/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/charankota1/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/charankota1/leetcode/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/charankota1/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/charankota1/leetcode/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/charankota1/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Matrix
 |  |
 | ------- |
